@@ -253,6 +253,14 @@
     <string name="pref_camera_settings_category" msgid="2576236450859613120">"Kameras iestatījumi"</string>
     <string name="pref_camcorder_settings_category" msgid="460313486231965141">"Videokameras iestatījumi"</string>
     <string name="pref_camera_picturesize_title" msgid="4333724936665883006">"Attēla izmērs"</string>
+	<!-- Settings screen, dialog choice for 16:9 picture size [CHAR LIMIT=15] -->
+    <string name="pref_camera_picturesize_entry_3264_1840">8M 16:9</string>
+    <string name="pref_camera_picturesize_entry_2592_1456">5M 16:9</string>
+    <string name="pref_camera_picturesize_entry_2048_1152">3M 16:9</string>
+    <string name="pref_camera_picturesize_entry_1920_1088">3M 16:9 (2)</string>
+    <string name="pref_camera_picturesize_entry_1600_896">2M 16:9</string>
+    <string name="pref_camera_picturesize_entry_1280_720">1M 16:9</string>
+    <string name="pref_camera_picturesize_entry_640_368">Small 16:9</string>
     <string name="pref_camera_picturesize_entry_13mp" msgid="675309554194481780">"13 megapikseļi"</string>
     <string name="pref_camera_picturesize_entry_8mp" msgid="259953780932849079">"8 megapikseļi"</string>
     <string name="pref_camera_picturesize_entry_5mp" msgid="2882928212030661159">"5 megapikseļi"</string>
